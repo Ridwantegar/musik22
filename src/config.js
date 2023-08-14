@@ -6,7 +6,7 @@ module.exports = {
   ownerID: process.env.OWNERID?.split(',') || ['1125031170422345738','337663518952390656',``], //your discord id
   SpotifyID: process.env.SPOTIFYID || '2d340b0e4f6143d0b908f7061a2474d7', // spotify client id
   SpotifySecret: process.env.SPOTIFYSECRET || 'adb0862e14a7403ab904b360a33ca49a', // spotify client secret
-  mongourl: process.env.MONGO_URI || 'mongodb+srv://tegarridwan82:tegargajah@oke.n95ygua.mongodb.net/?retryWrites=true&w=majority', // MongoDb URL
+  mongourl: process.env.MONGO_URI || 'mongodb+srv://CodeXDev:CodeX007@codex-public.lo930xf.mongodb.net/?retryWrites=true&w=majority', // MongoDb URL
   embedColor: process.env.COlOR || '#3366ff', // embed colour
   logs: process.env.LOGS || '1134575796867051552', // Discord channel id 
   links: {
